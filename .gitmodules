@@ -1,0 +1,6 @@
+[submodule "elisp/emacs-powerline"]
+	path = elisp/emacs-powerline
+	url = https://github.com/jonathanchu/emacs-powerline
+[submodule "elisp/xah-elisp-mode"]
+	path = elisp/xah-elisp-mode
+	url = https://github.com/xahlee/xah-elisp-mode
